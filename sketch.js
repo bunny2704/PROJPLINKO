@@ -82,7 +82,7 @@ function draw() {
  text ("200",570,470)
  text ("200",650,470)
  text ("200",730,470)
-// text ("count:"+count,100,30)
+/// text ("count:"+count,100,30)
   Engine.update(engine);
   if (particle!=null)
   {
